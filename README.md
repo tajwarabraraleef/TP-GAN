@@ -1,6 +1,6 @@
 # Rapid Treatment Planning for Low-dose-rate Prostate Brachytherapy with TP-GAN
 
-Keras/Tensorflow implementation of TP-GAN for automating treatment planning for low-dose-rate prostate brachytherapy. This work is published in  Medical Image Computing and Computer Assisted Intervention – MICCAI 2021 (https://miccai2021.org/en/).
+Keras/Tensorflow implementation of TP-GAN for automating treatment planning for low-dose-rate prostate brachytherapy. This work has been published in Medical Image Computing and Computer Assisted Intervention – MICCAI 2021 (https://miccai2021.org/en/).
 
 <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-87202-1_56" target="_blank">Paper |</a>
 <a href="" target="_blank" rel="noopener noreferrer">Presentation</a>
