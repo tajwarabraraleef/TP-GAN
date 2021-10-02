@@ -6,7 +6,7 @@ Keras/Tensorflow implementation of TP-GAN for automating treatment planning for 
 <a href="" target="_blank" rel="noopener noreferrer">Presentation</a>
 
 <p align="left">
-<a href="#"><img src="assets/cover.jpg" width="100%"></a>
+<a href="#"><img src="assets/cover.png" width="100%"></a>
 </p>
 
 ### Dependencies
