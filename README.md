@@ -34,7 +34,23 @@ Due to privacy policy, we are unable to share our clinical dataset. However, we 
 
 To train the model, run `train.py`. 
 
+The model for automatic needle plan generation from target volumes can be found [here](https://github.com/tajwarabraraleef/3Dpix2pix-for-prostate-brachytherapy). Using these two techniques together will allow for an end-to-end treatment planning solution for prostate brachytherapy.  
+
 This code can be used for other 3D image to image translation task by modifying the network architectures accordingly. 
+
+### Citation
+
+Please cite the following paper if you use this code in your work:
+```
+@InProceedings{aleef2021,
+title={Rapid Treatment Planning for Low-dose-rate Prostate Brachytherapy with TP-GAN},
+author={Aleef, Tajwar Abrar, Spadinger, Ingrid T., Peacock, Michael D., Salcudean, Septimiu E. and Mahdavi, S. Sara},
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2021",
+pages={581--590},
+year={2021},
+organization={Springer}
+}
+```
 
 ### Contact 
 
